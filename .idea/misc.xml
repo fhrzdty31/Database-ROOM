@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/drawable-v24/user_avatar.xml" value="0.1" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/drawable/ic_back.xml" value="0.1925" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/drawable/ic_email.xml" value="0.1685" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/drawable/ic_phone.xml" value="0.1685" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout-v31/popup.xml" value="0.23125" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout/activity_editor.xml" value="0.23125" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout/list_user.xml" value="0.23125" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout/pop_up.xml" value="0.23125" />
+        <entry key="..\:/Produktif Android/PersonProfileROOM/app/src/main/res/layout/popup.xml" value="0.19199999414062519" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

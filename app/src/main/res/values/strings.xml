@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile Data v2.0</string>
+    <string name="add">ADD</string>
+    <string name="edtNama">Nama Lengkap</string>
+    <string name="edtNomor">Nomor Telepon</string>
+    <string name="edtEmail">Email</string>
+    <string name="save">SAVE</string>
+    <string name="nama">Nama Lengkap</string>
+    <string name="email">Email</string>
+</resources>
